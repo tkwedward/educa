@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'educa.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'jojo4',
-        'USER': 'root',
-        'PASSWORD': 'password',
+        'ENGINE': 'tkwedward.mysql.pythonanywhere-services.com',
+        'NAME': 'tkwedward$jojo5',
+        'USER': 'tkwedward',
+        'PASSWORD': '00da134',
         'HOST': 'localhost',
         'PORT': '3306',
     },
